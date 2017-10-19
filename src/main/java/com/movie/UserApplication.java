@@ -1,0 +1,1 @@
+package com.movie;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;/** * Created by luyangjian on 2017/10/13. */@SpringBootApplicationpublic class UserApplication {    public static void main(String[] args) {        SpringApplication.run(UserApplication.class, args);    }}
